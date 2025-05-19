@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjha-08&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjha-08" /> </p>
 
-- 🌱 I’m currently learning **Frameworks ,backend etc.**
+- 🌱 I’m currently learning **Data analystice ,visualization etc.**
 
 - 📫 How to reach me **aryanjha101@gmail.com**
 
-- ⚡ Fun fact **I think a am funny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
