@@ -22,5 +22,5 @@
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs?username=aryanjha-08&show_icons=true&locale=en&layout=compact -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjha-08&?theme=omni&show_icons=true" alt="aryanjha-08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanjha-08&theme=omni&show_icons=true" alt="aryanjha-08" /></p>
 
